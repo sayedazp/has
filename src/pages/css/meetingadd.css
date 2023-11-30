@@ -1,0 +1,17 @@
+.bgim {
+    background-image: url("../images/img.jpg");
+}
+
+.righttol{
+    direction: rtl;
+}
+
+.styledbtn{
+    font-size: 16px; margin: 0 auto;
+}
+
+
+.form-control{
+    appearance: listbox;
+    -webkit-appearance: listbox;
+}

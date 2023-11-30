@@ -1,0 +1,15 @@
+.righttol{
+    direction: rtl;
+}
+
+.styledbtn{
+    font-size: 16px; margin: 0 auto;
+}
+
+.alignedcard{
+    text-align: right;
+}
+
+.btn .btn-dark .col-md-6{
+    margin: 0 auto;
+}

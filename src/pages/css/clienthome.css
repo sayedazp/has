@@ -1,0 +1,15 @@
+.righttol{
+    direction: rtl;
+}
+
+.styledbtn{
+    font-size: 16px; margin: 0 auto;
+}
+
+.alignedcard{
+    text-align: right;
+}
+
+.coloredcard{
+    background-color: rgb(94, 28, 18); color: white;
+}
